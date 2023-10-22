@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Jung Hoon Seo, currently pursuing a Master's degree in Computer Science at Texas A&M University.
 
 <!--
 **jseo0917/jseo0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
