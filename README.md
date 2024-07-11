@@ -1,4 +1,4 @@
-### I am Jung Hoon Seo, currently pursuing a Master's degree in Computer Science at Texas A&M University.
+### I am Jung Hoon Seo. I am currently working as a part-time software engineer at HanAra Software in Austin. Feel free to contact me if you have any questions about me.
 
 <!--
 **jseo0917/jseo0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
