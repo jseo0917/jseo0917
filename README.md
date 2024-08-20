@@ -13,21 +13,23 @@ Hi! I am JungHoon 👋
   * Jun. 2020 - Aug. 2020 💼  AI Engineer Intern @BNF Technology Inc. (Daejeon, South Korea)
 
 **Projects**
-  *ML/AI/DATA*
-    https://github.com/jseo0917/NLP_GROUP_PROJECT/settings
-    https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection
-    https://github.com/jseo0917/CSCE633_MACHINE_LEARNING
-    https://github.com/jseo0917/Apriori
-    https://github.com/jseo0917/CSCE676_DATA_MINING
+ **ML/AI/DATA**
+  * https://github.com/jseo0917/NLP_GROUP_PROJECT
+  * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection 
+  * https://github.com/jseo0917/CSCE633_MACHINE_LEARNING
+  * https://github.com/jseo0917/Apriori
+  * https://github.com/jseo0917/CSCE676_DATA_MINING/blob/master/HW3/Recommender_Sys.ipynb (Recommender System)
+  * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection/
+    
+ **Front-end**
+  * https://github.com/jseo0917/CSCE310_CINEFILE
+ 
+ **Backend**
+  * https://github.com/jseo0917/Springboot-microservice 
 
-  *Front-end*
-    https://github.com/jseo0917/CSCE310_CINEFILE
-  *Backend*    
-    https://github.com/jseo0917/Springboot-microservice 
-
-  *Operating System & TCP / IP*
-    https://github.com/jseo0917/SocketProgramming
-    https://github.com/jseo0917/Operating-System
+ **Operating System & TCP / IP**
+  * https://github.com/jseo0917/SocketProgramming
+  * https://github.com/jseo0917/Operating-System
     
 <!--
 **jseo0917/jseo0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
