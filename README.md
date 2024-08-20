@@ -1,4 +1,4 @@
-Hi! I am JungHoon 👋
+Thanks for your visit 👋 I am JungHoon 
 
 **Education**
 
@@ -14,22 +14,23 @@ Hi! I am JungHoon 👋
 
 **Projects**
  **ML/AI/DATA**
-  * https://github.com/jseo0917/NLP_GROUP_PROJECT
-  * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection 
-  * https://github.com/jseo0917/CSCE633_MACHINE_LEARNING
-  * https://github.com/jseo0917/Apriori
+  * https://github.com/jseo0917/NLP_GROUP_PROJECT (Dialog Summarization)
+  * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection (Credit card Fraud detection)  
+  * https://github.com/jseo0917/Apriori (Apriori Alogithm)
   * https://github.com/jseo0917/CSCE676_DATA_MINING/blob/master/HW3/Recommender_Sys.ipynb (Recommender System)
-  * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection/
-    
+  * https://github.com/irinagain/iglu (Statistical Analysis of Continuous Glucose Monitoring Data)
  **Front-end**
-  * https://github.com/jseo0917/CSCE310_CINEFILE
+  * https://github.com/jseo0917/CSCE310_CINEFILE (Movie Search)
  
  **Backend**
-  * https://github.com/jseo0917/Springboot-microservice 
+  * https://github.com/jseo0917/Springboot-microservice (Organization System)
+  * https://github.com/jseo0917/selenium-automation-project (Testing Automation)
 
  **Operating System & TCP / IP**
-  * https://github.com/jseo0917/SocketProgramming
-  * https://github.com/jseo0917/Operating-System
+  * https://github.com/jseo0917/SocketProgramming (OSI Model - Layer 2 & Layer 3)
+  * https://github.com/jseo0917/Operating-System (Operating System)
+
+
     
 <!--
 **jseo0917/jseo0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
