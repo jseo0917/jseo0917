@@ -13,6 +13,7 @@ Thanks for your visit 👋 I am JungHoon
   * Jun. 2020 - Aug. 2020 💼  AI Engineer Intern @BNF Technology Inc. (Daejeon, South Korea)
 
 **Projects**
+
  **ML/AI/DATA**
   * https://github.com/jseo0917/NLP_GROUP_PROJECT (Dialog Summarization)
   * https://github.com/jseo0917/Overcoming-High-Accuracy-coupled-with-Low-Precision-and-Recall-in-Credit-Card-Fraud-Detection (Credit card Fraud detection)  
