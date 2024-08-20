@@ -19,6 +19,7 @@ Thanks for your visit 👋 I am JungHoon
   * https://github.com/jseo0917/Apriori (Apriori Alogithm)
   * https://github.com/jseo0917/CSCE676_DATA_MINING/blob/master/HW3/Recommender_Sys.ipynb (Recommender System)
   * https://github.com/irinagain/iglu (Statistical Analysis of Continuous Glucose Monitoring Data)
+
  **Front-end**
   * https://github.com/jseo0917/CSCE310_CINEFILE (Movie Search)
  
