@@ -2,7 +2,7 @@ Thanks for your visit 👋 I am JungHoon
 
 **Education**
 
-  * 🌱 2022 January - 2023 December Major Computer Science - Specialization: Machine Learning @ Texas A&M Univeristy
+  * 🌱 2022 January - 2023 December Masters in Computer Science @ Texas A&M Univeristy
   * 🌱 2018 August  - 2021 December Computer Science (Major) & Statistics (Minor)
 
 **Experience**
