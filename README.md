@@ -2,8 +2,8 @@ Thanks for your visit 👋 I am JungHoon
 
 **Education**
 
-  * 🌱 2022 January - 2023 December Masters in Computer Science @ Texas A&M Univeristy
-  * 🌱 2018 August  - 2021 December Computer Science (Major) & Statistics (Minor)
+  * 🌱 Masters in Computer Science @ Texas A&M Univeristy
+  * 🌱 Computer Science (Major) & Statistics (Minor) @ Texas A&M Univeristy
 
 **Experience**
 
